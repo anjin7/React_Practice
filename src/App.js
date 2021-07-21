@@ -19,7 +19,7 @@ class App extends Component {
       <>
         <MyName name="react"/>
         <Counter />
-        <div style={style}>Hello</div>
+        <div style={style}>Hello World</div>
         <div>
           {
             1 + 1 === 2
